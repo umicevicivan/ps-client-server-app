@@ -1,0 +1,57 @@
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\Server.exe.config
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\Server.exe
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\Server.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\obj\Debug\Server.exe
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\obj\Debug\Server.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\Domen.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\Domen.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\Kontroler.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\BrokerBazePodataka.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\Kontroler.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Server\bin\Debug\SistemskeOperacije.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\Server.exe.config
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\Server.exe
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\Server.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\Domen.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\Kontroler.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\BrokerBazePodataka.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\SistemskeOperacije.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\Domen.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\Kontroler.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\BrokerBazePodataka.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\bin\Debug\SistemskeOperacije.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\obj\Debug\Server.FrmServer.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\obj\Debug\Server.exe
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Server\obj\Debug\Server.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\Server.exe.config
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\Server.exe
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\Server.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\Domen.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\Kontroler.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\BrokerBazePodataka.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\SistemskeOperacije.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\Domen.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\Kontroler.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\BrokerBazePodataka.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Server\bin\Debug\SistemskeOperacije.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Server\obj\Debug\Server.FrmServer.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Vanja\Desktop\RecenzijaFilmova\Server\obj\Debug\Server.exe
+D:\Vanja\Desktop\RecenzijaFilmova\Server\obj\Debug\Server.pdb

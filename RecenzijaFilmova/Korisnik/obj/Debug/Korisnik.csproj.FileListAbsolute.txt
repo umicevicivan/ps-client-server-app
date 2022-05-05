@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\Korisnik.exe.config
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\Korisnik.exe
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\Korisnik.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\Domen.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\Domen.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\Korisnik.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\Korisnik.FrmLogin.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\Korisnik.Properties.Resources.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\Korisnik.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\Korisnik.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\Korisnik.csproj.CopyComplete
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\Korisnik.exe
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\Korisnik.pdb

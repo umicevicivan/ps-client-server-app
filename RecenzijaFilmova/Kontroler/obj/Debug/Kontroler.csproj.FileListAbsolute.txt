@@ -1,0 +1,39 @@
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\bin\Debug\Domen.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\bin\Debug\Domen.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\bin\Debug\Kontroler.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\bin\Debug\Kontroler.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\bin\Debug\BrokerBazePodataka.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\bin\Debug\Domen.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\bin\Debug\SistemskeOperacije.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\bin\Debug\Domen.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\bin\Debug\SistemskeOperacije.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\bin\Debug\Kontroler.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\bin\Debug\Kontroler.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\bin\Debug\BrokerBazePodataka.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\bin\Debug\Domen.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\bin\Debug\SistemskeOperacije.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\bin\Debug\Domen.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\bin\Debug\SistemskeOperacije.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Kontroler\obj\Debug\Kontroler.pdb

@@ -1,0 +1,57 @@
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmLogin.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.Properties.Resources.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\RecenzijaFilma.exe.config
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\RecenzijaFilma.exe
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\RecenzijaFilma.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\Domen.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\bin\Debug\Domen.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csproj.CopyComplete
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.exe
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmGlavnaForma.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmUnosGlumca.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmBrisanjeIzmenaGlumca.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmUnosFima.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmBrisanjeIzmenaFilma.resources
+C:\Users\PC\source\repos\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmUnosRecenzije.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\bin\Debug\RecenzijaFilma.exe.config
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\bin\Debug\RecenzijaFilma.exe
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\bin\Debug\RecenzijaFilma.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\bin\Debug\Domen.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\bin\Debug\Domen.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csprojAssemblyReference.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmBrisanjeIzmenaFilma.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmBrisanjeIzmenaGlumca.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmGlavnaForma.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmLogin.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmUnosFima.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmUnosGlumca.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmUnosRecenzije.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.Properties.Resources.resources
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csproj.GenerateResource.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csproj.CoreCompileInputs.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csproj.CopyComplete
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.exe
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\bin\Debug\RecenzijaFilma.exe.config
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\bin\Debug\RecenzijaFilma.exe
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\bin\Debug\RecenzijaFilma.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\bin\Debug\Domen.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\bin\Debug\Domen.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csprojAssemblyReference.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmBrisanjeIzmenaFilma.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmBrisanjeIzmenaGlumca.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmGlavnaForma.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmLogin.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmUnosFima.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmUnosGlumca.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.FrmUnosRecenzije.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.Properties.Resources.resources
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csproj.GenerateResource.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csproj.CoreCompileInputs.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.csproj.CopyComplete
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.exe
+D:\Vanja\Desktop\RecenzijaFilmova\Korisnik\obj\Debug\RecenzijaFilma.pdb

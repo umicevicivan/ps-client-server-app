@@ -1,0 +1,27 @@
+C:\Users\PC\source\repos\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\Domen.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\Domen.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\Domen.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\Domen.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+D:\Vanja\Desktop\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+D:\Vanja\Desktop\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+D:\Vanja\Desktop\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+D:\Vanja\Desktop\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\Domen.dll
+D:\Vanja\Desktop\RecenzijaFilmova\BrokerBazePodataka\bin\Debug\Domen.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete

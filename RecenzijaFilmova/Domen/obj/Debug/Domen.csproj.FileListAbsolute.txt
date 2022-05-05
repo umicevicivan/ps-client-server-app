@@ -1,0 +1,18 @@
+C:\Users\PC\source\repos\RecenzijaFilmova\Domen\bin\Debug\Domen.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Domen\bin\Debug\Domen.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\Domen\obj\Debug\Domen.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\Domen\obj\Debug\Domen.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Domen\bin\Debug\Domen.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Domen\bin\Debug\Domen.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Domen\obj\Debug\Domen.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\Domen\obj\Debug\Domen.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Domen\bin\Debug\Domen.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Domen\bin\Debug\Domen.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+D:\Vanja\Desktop\RecenzijaFilmova\Domen\obj\Debug\Domen.dll
+D:\Vanja\Desktop\RecenzijaFilmova\Domen\obj\Debug\Domen.pdb

@@ -1,0 +1,33 @@
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\bin\Debug\Domen.dll
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\bin\Debug\Domen.pdb
+C:\Users\PC\source\repos\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\bin\Debug\Domen.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\bin\Debug\Domen.pdb
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+D:\Vanja\My Documents\Fax\PS\Seminarski\Moj\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\bin\Debug\Domen.dll
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\bin\Debug\Domen.pdb
+D:\Vanja\Desktop\RecenzijaFilmova\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
